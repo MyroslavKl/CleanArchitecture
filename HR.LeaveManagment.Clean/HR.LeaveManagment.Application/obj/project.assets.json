@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "HR.LeaveManagment.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HR.LeaveManagment.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HR.LeaveManagment.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HR.LeaveManagment.Domain/1.0.0": {
+      "type": "project",
+      "path": "../HR.LeaveManagment.Domain/HR.LeaveManagment.Domain.csproj",
+      "msbuildProject": "../HR.LeaveManagment.Domain/HR.LeaveManagment.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "HR.LeaveManagment.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Myroslav\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj",
-      "projectName": "HR.LeaveManagment.Domain",
-      "projectPath": "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj",
+      "projectUniqueName": "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
+      "projectName": "HR.LeaveManagment.Application",
+      "projectPath": "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Application\\HR.LeaveManagment.Application.csproj",
       "packagesPath": "C:\\Users\\Myroslav\\.nuget\\packages\\",
-      "outputPath": "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Domain\\obj\\",
+      "outputPath": "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Myroslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj": {
+              "projectPath": "F:\\Work\\CleanArchitect\\HR.LeaveManagment.Clean\\HR.LeaveManagment.Domain\\HR.LeaveManagment.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
