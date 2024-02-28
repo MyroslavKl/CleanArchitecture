@@ -1,0 +1,11 @@
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\bin\Debug\net7.0\HR.LeaveManagment.Domain.deps.json
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\bin\Debug\net7.0\HR.LeaveManagment.Domain.dll
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\bin\Debug\net7.0\HR.LeaveManagment.Domain.pdb
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\HR.LeaveManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\HR.LeaveManagment.Domain.AssemblyInfoInputs.cache
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\HR.LeaveManagment.Domain.AssemblyInfo.cs
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\HR.LeaveManagment.Domain.csproj.CoreCompileInputs.cache
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\HR.LeaveManagment.Domain.dll
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\refint\HR.LeaveManagment.Domain.dll
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\HR.LeaveManagment.Domain.pdb
+F:\Work\CleanArchitect\HR.LeaveManagment.Clean\HR.LeaveManagment.Domain\obj\Debug\net7.0\ref\HR.LeaveManagment.Domain.dll
